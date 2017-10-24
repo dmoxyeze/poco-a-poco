@@ -1,0 +1,615 @@
+Abubakar Tafawa Balewa University (ATBU)
+Ahmadu Bello University (ABU)
+Bayero University Kano (BUK)
+Federal University Of Agriculture, Makurdi (FUAM)
+Federal University of Petroleum Resource (FUPRE)
+Federal University of Technology Akure (FUTA)
+Federal University of Technology Minna (FUTMINNA)
+Federal University of Technology, Owerri (FUTO)
+Federal University, Dutse (FUD)
+Federal University, Dutsin ma (FUDMA)
+Federal University, Kashere (FUK)
+Federal University, Lafia (FUL)
+Federal University, Lokoja (FULOKOJA)
+Federal University, Ndufu alike (FUNAI)
+Federal University, Otuoke (FUOTUOKE)
+Federal University, Oye ekiti (FUOYE)
+Federal University, Wukari (FUWUKARI)
+Michael Okpara University of Agriculture (MOUA)
+Modibbo Adama University of Technology, Yola, Adamawa State (MAUTECH)
+Nigerian Defence Academy, Kaduna, Kaduna State (NDA)
+Nigerian Police Academy, Wudil, Kano, Kano State (NPA)
+Nnamdi Azikiwe University, Awka, Anambra State (UNIZIK)
+Obafemi Awolowo University (OAU)
+University of Abuja (UNIABUJA)
+University of Agriculture, Abeokuta (UNAAB)
+University of Agriculture, Makurdi (UAM)
+University of Benin (UNIBEN)
+University of Calabar (UNICAL)
+University of Ibadan (UI)
+University of Ilorin (UNILORIN)
+University of Jos (UNIJOS)
+University of Lagos (UNILAG)
+University of Maiduguri (UNIMAID)
+University of Nigeria (UNN)
+University of Port Harcourt (UNIPORT)
+University Of Science And Technology, Ifaki ekiti (USTI)
+University of Uyo (UNIUYO)
+Usman Dan Fodio University (UDUSOK)
+Abia State University, Uturu (ABSU)
+Adamawa State University, Mubi (ADSU)
+Adekunle Ajasin University (AAUA)
+Akwa Ibom State University, Ikot-Akpaden (AKSU)
+Ambrose Alli University (AAU)
+Anambra State University (ANSU)
+Bauchi State University (BASU)
+Benue State University (BSU)
+Cross River University of Technology (CRUTCH)
+Delta State University (DELSU)
+Ebonyi State University (EBSU)
+Edo State University (EDSU)
+Ekiti State University, Ado-Ekiti (EKSU)
+Enugu State University of Science and Technology (ESUT
+Gombe State University (GOMSU)
+Ibrahim Badamasi Babangida University (IBBU)
+Ignatius Ajuru University of Education (IAUED)
+Imo State University (IMSU)
+Kaduna State University (KASU)
+Kano University of Science and Technology (KUST) 
+Kebbi State University Of Science And Technology (KSUSTA)
+Kogi State University (KSU)
+Kwara State University (KWASU)
+Ladoke Akintola University of Technology (LAUTECH)
+Lagos State University, Ojo (LASU)
+Nasarawa State University (NSUK)
+Niger Delta University (NDU)
+Niger State University of Education (NUEM) 
+Northwest University Kano (NWU) 
+Olabisi Onabanjo University (OOU)
+Ondo State University of Medical Sciences (OSUMS) 
+Ondo State University of Science and Technology (OSUSTECH)
+Osun State University (UNIOSUN)
+Plateau State University (PLSU)
+Rivers State University of Science and Technology (RSUST)
+Sokoto State University (SOSU)
+Sule Lamido State University (JSU)
+Tai Solarin University of Education (TASUED)
+Taraba State University (TASU)
+The University of Africa, Toru-Orua (UNIAFRICA)
+Umaru Musa Yar’adua University (umyu)
+Yobe State University (YOSU)
+Achievers University (ACHIEVERS)
+Adeleke University (AUE)
+Afe Babalola University (ABUAD)
+Ajayi Crowther University (AJAYI)
+Al-Hikmah University, Ilorin (AL-HIKMAH)
+Al-QalamUniversity (AL-QALAM)
+American University of Nigeria (AUN)
+Anchor University, Ayobe (ANCHOR-UNI)
+Arthur Jarvis University, Akpabuyo (ARTHUR-JARVIS)
+Augustine University, Ilara (AUGUSTINE)
+Babcock University, Ilishan-Remo (BABCOCK)
+Baze University, Abuja (BAZE)
+Bells University of Technology (BELLS)
+Benson Idahosa University (BIU)
+Bingham University (BINGHAM)
+Bowen University (BU)
+Caleb University (CALEB)
+Caritas University (CARITAS)
+Chrisland University, (CHRISLAND)
+Christopher University, (CHRISTOPHER)
+Clifford University (CLIFFORD)
+Coal City University (COAL-CITY) 
+Covenant University (COVENANT)
+Crawford University (CRAWFORD)
+Crescent University (CRESCENT)
+Crown Hill University (CROWN-HILL)
+Dominican University (DOMINICAN-UNI)
+Eastern Palm University (EPU)
+Edwin Clark University (EDWIN CLARK) 
+Elizade University (ELIZADE)
+Evangel University (EVANGEL)
+Fountain University (FOUNTAIN) 
+Godfrey Okoye University (GOU)
+Gregory University (GREGORY)
+Hallmark University (HALLMARK)
+Hezekiah University (UNIHEZ)
+Igbinedion University, Okada (IGBINEDION) 
+Joseph Ayo Babalola University (JABU)
+Kings University (UNIKINGS)
+Koladaisi University (KOLADAISI)
+KWARARRAFA University, Wukari (KWARARRAFA)
+Landmark University (LANDMARK)
+Lead City University (LCITY)
+Legacy University (LEGACY)
+Madonna University (MADONNA)
+McPherson University (MCPHERSON )
+Michael and Cecilia Ibru University (MC-IBRU)
+Mountain Top University (MOUNTAIN TOP)
+Nigeria Turkish Nile University (NTNU)
+Novena University, Ogume (NOVENA)
+Obong University, Obong (OBONG) 
+Oduduwa University (ODUDUWA)
+PAN-ATLANTIC University (PAN-ATLANTIC)
+Paul University, Awka (PAUL) 
+Redeemers University (REDEEMERS) 
+Renaissance University (RENAISSANCE)
+Rhema University (RHEMA)
+Ritman University (RITMAN) 
+Salem University (SALEM)
+Samuel Adegboyega University, Ogwa, Edo State (SAU) 
+SouthWestern University (SOUTHWESTERN) 
+Summit University (SUMMIT)
+Tansian University (TANSIAN)
+University of Mkar (MKAR)
+Veritas University (VERITAS) 
+Wellspring University (WELLSPRING)
+Wesley University (WESLEYUNI)
+Western Delta University (WESTER-DEL)
+Air Force Institute Of Technology (AFIT)
+Akanu Ibiam Federal Polytechnic (AKANUPOLY)
+Auchi Polytechnic (AUCHIPOLY)
+Federal Polytechnic, Ado Ekiti (EKITIPOLY)
+Federal Polytechnic, Bali (BALIPOLY)
+Federal Polytechnic, Bauchi (BAUCHIPOLY)
+Federal Polytechnic, Bida (BIDAPOLY)
+Federal Polytechnic, Damaturu (DAMATURUPOLY)
+Federal Polytechnic, Ede (EDEPOLY)
+Federal Polytechnic, Ekowe, Yenagoa.
+Federal Polytechnic, Idah (IDAHPOLY)
+Federal Polytechnic, Ilaro (ILAROPOLY)
+Federal Polytechnic, Ile-Oluji, Ondo
+Federal Polytechnic, Kaduna (KADUNAPOLY)
+Federal polytechnic, Kaura/Namoda, Zamfara
+Federal Polytechnic, Mubi (MUBIPOLY)
+Federal Polytechnic, Nasarawa (NASARAWAPOLY)
+Federal Polytechnic, Nekede (NEKEDEPOLY)
+Federal Polytechnic, Offa (OFFAPOLY)
+Federal polytechnic, Oko (OKOPOLY)
+Federal Polytechnic, Ukana, Akwa Ibom
+Federal School of Dental Technology and Therapy Enugu
+Hussaini Adamu Federal Polytechnic, Kazaure
+Nigeria Army Institute of Technlogy and Environmental Studies, Makurdi (NAITES) 
+Waziri Umaru Federal Polytechnic Birnin Kebbi (BIRNIN KEBBIPOLY)
+Yaba College of Technology (YABATECH)
+Abdul-Gusau Polytechnic, Talata-Mafara 
+Abia State College of Health Sciences and Management Technology, Aba (ACHTECH)
+Abia State polytechnic (ABIAPOLY)
+Abraham Adesanya Polytechnic (AAP)
+Abubakar Tatari Ali Polytechnic, Bauchi
+Adamawa State Polytechnic, Yola
+Akwa-Ibom State College of Arts and Science Nung, Ukim
+Akwa-Ibom State Polytechnic (AKPOLY)
+Bayelsa State College of Arts and Science, Elebele, Yanagoa
+Benue State Poly, Ugbokolo, Otupko
+Binyaminu Usman Polytechnic, Hadejia
+College of Administrative and Business Studies, Potiskum, Yobe
+D. S. Adegbenro ICT Polytechnic, Itori, Ogun 
+Delta State Polytechnic, Ogwashi-Uku 
+Delta State Polytechnic, OtefeDelta State Polytechnic, Ozoro 
+Edo State Institute of Technology and Management, Usen, Benin City
+Hassan Usman Katsina Poly
+Imo State Polytechnic (IMOPOLY)
+Institute of Management and Technology (IMT)
+Institute of Technology and Management, Calabar
+Jigawa State Polytechnic, Dutse (JIGAWAPOLY)
+Kano State Polytechnic (KANOPOLY)
+Kenule Beeson Saro-Wiwa Polytechnic, Bori 
+Kogi State Polytechnic, Lokoja (KOGIPOLY)
+Kwara State Polytechnic, Ilorin (KWARAPOLY)
+Lagos State Polytechnic, Ikorodu 
+Mai Idris Alooma Polytechnic, Geidam, Yobe
+Moshood Abiola Polytechnic, Abeokuta
+Nasarawa State Polytechnic, Lafia
+Niger State Polytechnic, Zungeru, Niger
+Nuhu Bamalli Polytechnic, Zaria 
+Ogun State Institute of Technology, Igbesa 
+Osun State College of Tech, Esa-Oke 
+Osun State Polytechnic, Iree
+Plateau State Polytechnic, Barkin-Ladi 
+Port Harcourt Polytechnic, Rumuola 
+Ramat Polytechnic, Maiduguri
+Rivers State College of Health Science, Rumueme
+Rufus Giwa Polytechnic, Owo, Ondo
+The Ibarapa Polytechnic, Eruwa 
+The Oke-Ogun Polytechnic, Saki 
+The Polytechnic, Ibadan (IBADANPOLY)
+Umar Ali Shinkafi Polytechnic, Farfaru
+Allover Central Polytechnic, Ota
+Best Solution Polytechnic, Akure (BSP)
+Bolmor Polytechnic, Agodi, Ibadan
+Calvary Polytechnic, Owo-Oyibo
+College of Technology, Iresi, Boluwaduro (CTI)
+Covenant Polytechnic, Aba
+Crown Polytechnic, Odo, Ado-Ekiti
+Dorben Polytechnic, GarkiEastern Polytechnic, Rumuokwurusi 
+Fidei Polytechnic, Gboko 
+Gboko Polytechnic 
+Global Polytechnic, Akure 
+Grace Polytechnic, SurulereHeritage Polytechnic, Ikot Udota 
+Ibadan City Polytechnic, DugbeIgbajo Polytechnic, 
+Interlink Polytechnic, Ijebu-Jesa 
+Kalac Christal Polytechnic, Sango-TedoKings Polytechnic, Ubiaja 
+Lagos City Polytechnic, Ikeja 
+Lens Polytechnic, Offa
+Light House Polytechnic, Evbuobanosa 
+Marist Polytechnic, Umuchigbo-De Nike Emene 
+NACABS Polytechnic, AkwangaNogak Polytechnic, Ikom 
+Our Saviour Institute of Science and Technology (Poly) Enugu (OSISATECH)
+Prime Polytechnic, Jidda Bassa
+RONIK Polytechnic, Ikeja (RONIK)
+Shaka Polytechnic, Ogiso
+St. Mary Polytechnic, Kwamba
+Sure Foundation Polytechnic, Ikot Akai
+Temple-Gate Polytechnic, Aba Abayi 
+The Polytechnic, AdokaThe Polytechnic, Igbo-Owu, Ilorin
+The Polytechnic, Ile-Ife, 
+The Polytechnic, Imesi-Ile
+Tower Polytechnic, Ibadan
+Trinity Polytechnic, Ifa Arai 
+Uyo City Polytechnic 
+Valley View Polytechnic, Ohafia 
+Wolex Polytechnic, Ikeja 
+Federal College of Agricultural Produce Technology 
+Federal College of Agriculture, Akure
+Federal College of Agriculture, Ishiagu 
+Federal College of Agriculture, Moor Plantation, Ibadan
+Federal College of Animal Health and Production Technology, Ibadan
+Federal College of Animal Health and Production Technology, Vom
+Federal College of Fisheries and Marine Technology, Victoria Island 
+Federal College of Forestry Technology, Ibadan
+Federal College of Forestry, Jos
+Federal College of Forestry, Mechanisation, Afaka
+Federal College of Freshwater Fisheries Technology, Baga 
+Federal College of Freshwater Fisheries Technology, New Bussa, Niger
+Federal College of Horticultural Technology, Dadin Kowa
+Federal College of Land Resources Technology, Kuru 
+Federal College of Land Resources Technology, Owerri 
+Federal College of Orthopedic Technology, Department of Orthopaedic Cast Technology, National Orthopedic Hospital, Igbobi
+Federal College of Wildlife Management, New Bussa 
+Federal Cooperative College, Ibadan 
+Federal Cooperative College, Kaduna 
+Federal Cooperative College, Oji River 
+Federal School of Statistics, ManchokFederal School of Surveying, Oyo
+Maritime Academy of Nigeria, Oron
+Michael Imodu National Institute for Labour Studies, Ilorin
+National Institute of Construction Technology, Uromi 
+National Water Resources Institute, Kaduna
+Nigeria College of Aviation Technology, Zaria
+Nigerian Institute of Leather Technology and Science Technology, Zaria 
+Petroleum Training Institute, Effurun (PTI)
+Samaru College of Agriculture, Division of Agricultural Colleges , Ahmadu Bello University, Zaria 
+School of Biomedical Engineering, University of Benin Teaching Hospital, Benin
+School of Biomedical Engineering, University of Maiduguri Teaching Hospital, Maidduguri
+School of Orthopedic Cast Technology, National Orthopedic Hospital, Dala
+School of Orthopedic Cast Technology, National Orthopedic Hospital, Enugu
+School of Orthopedic Cast Technology, University of Ilorin Teaching Hospital, Ilorin   
+Akperan Orshi College of Agriculture, Yandev-Gboko
+Anambra State College of Agriculture, Mgbakwu
+Anambra State College of Health Technology, Obosi
+Audu Bako College of Agriculture, Danbatta, Kano
+Bauchi State College of Agriculture, Bauchi
+College of Agriculture and Animal Science, Bakura
+College of Agriculture and Animal Science, Kaduna
+College of Agriculture, Jalingo
+College of Agriculture, Kabba 
+College of Agriculture, Lafia
+College of Agriculture, Zuru
+College of Health Technology, Calabar 
+College of Health Technology, Zawan
+Delta State College of Agriculture, Ozoro 
+Delta State College of Health Technology, Ofuoma-Ughelli
+Edo State College of Agriculture, Iguoriakhi
+Enugu State College of Agriculture, Iwollo
+Jigawa State Institute of Information Technology, Kazaure 
+Kwara State College of Health Technology, Offa
+Mahammed Lawan College of Agriculture, Maiduguri 
+National Water Resources Institute, Mando 
+Niger State College of Agriculture, Mokwa
+Ogun State College of Health Technology, Ilese-Ijebu 
+Ondo State School of Health Technology, Akure
+Oyo State College of Agriculture and Technology, Igbo-Ora 
+Plateau State College of Agriculture, Garkawa 
+Yobe State College of Agriculture, Gujba
+Zamfara State College of Arts and Science, Gusau
+Millennium College of Health Technology, Akure
+Nigerian Institute of Journalism, Ogba 
+NKST College of Health Technology, Gboko
+Pogil College of Health Technology, Oke-Eri 
+WAVECREST College of Hospitality, Surulere
+Adeyemi College of Education, Ondo (ADEYEMI)
+Alvan Ikoku Federal College of Education, Owerri, (ALVAN)
+Federal College Education (Technical), Gombe (FCETGOMBE)
+Federal College of Education (Special), Oyo (FCESOYO)
+Federal College of Education (Technical), Akoka (FCETAKOKA)
+Federal College of Education (Technical), Asaba (FCETASABA)
+Federal College of Education (Technical), Bichi, (FCETBICHI)
+Federal College of Education (Technical), Gusau (FCETGUSAU)
+Federal College of Education (Technical), Omoku, (FCETOKOKU)
+Federal College of Education (Technical), Potiskum, (FCETPONTIS)
+Federal College of Education (Technical), Umunze (FCETUMUNZE)
+Federal College of Education, Kano (FC-KANO)
+Federal College of Education, Katsina (FC-KAT)
+Federal College of Education, Kontagora (FC-KONTA)
+Federal College of Education, Obudu (FC-OBUDU)
+Federal College of Education, Okene (FC-OKENE)
+Federal College of Education, Osiele, Abeokuta (FC-ABEO)
+Federal College of Education, Pankshin (FC-PANK)
+Federal College of Education, Yola (FC-YOLA)
+Federal College of Education, Zaria (FC-ZARIA)
+Federal College of Education., Eha-Amufu, (FC-AMUFU)
+Nigerian Army School of Education, Ilorin (NASE)
+Abia State College of Education (Technical), Arochukwu
+Adamu Augie College of Education, Argungu 
+Adeniran Ogunsanya College of Education, Otto/Ijanikin 
+Akwa-Ibom State College of Education, Afaha-Nsit
+Bauchi State Institute of Education, Kangere
+Bilyaminu Othman College of Education, Dass
+College of Education, (Tech), Lafiagi 
+College of Education, Agbor 
+College of Education, Akwanga 
+College of Education, Ankpa 
+College of Education, Azare 
+College of Education, Billiri
+College of Education, Ekiadolo, Benin City 
+College of Education, Gidan-Waya, 
+College of Education, Gindiri 
+College of Education, Hong, Yola
+College of Education, Igueben
+College of Education, Ikere 
+College of Education, Ilesha 
+College of Education, Ilorin
+College of Education, Katsina-Ala 
+College of Education, Maru 
+College of Education, Minna
+College of Education, Oju 
+College of Education, Oro 
+College of Education, Waka-Biu 
+College of Education, Warri 
+College of Education, Zing 
+Cross River State College of Education, Akamkpa 
+Delta State College of Physical Education, Mosogar 
+Ebonyi State College of Education, Ikwo 
+Emmanuel Alayande College of Education, Oyo
+Enugu State College of Education (Tech.), Enugu
+FCT College of Education, Zuba 
+Isa Kaita College of Education, Dutsinma
+Isaac Jasper Boro College of Education, Sagbama 
+Jigawa State College of Education, Gumel 
+Jigawa State College of Islamic and Legal Studies, Ringim
+Kano State College of Arts, Science and Remedial Studies, 
+Kashim-Ibrahim College of Educ., Maiduguri 
+Kogi State College of Education (Technical), Kabba 
+Michael Otedola College of Primary Education, Moforiji, 
+Mohammed Goni College of Legal and Islamic Studies, Maiduguri
+Nwafor Orizu College of Education, Nsugbe 
+Osun State College of Education, Ila-Orangun 
+Saadatu Rimi College of Education, Kumbotso 
+Shehu Shagari College of Education, Sokoto 
+Tai Solarin College of Education, Ijebu-Ode 
+Umar Suleiman College of Education, Gashua
+Umar-Ibn EI-Kanemi College of Education, Science and Technology, Bama
+A.D. Rufa’I College for Legal and Islamic Studies, Misau 
+African Thinkers Community of inquiry College of Education, Independent layout, Enugu
+Al Hikma College of Education, Ankpa-Ibadan College of Education, Ibadan
+Ameer Shehu Idris College of Advance Studies, Zaria
+Aminu Kano College of Islamic and Legal Studies, Kano
+Angel Crown College of Education, Gidan-Daya Annur 
+Institute for Islamic Education, Kwajalawa Ansar-Ud-Deen
+College of Education, IsoloApa 
+College of Education, Aidojodo-Okpoga 
+Arabic and Islamic College of Education, Potiskum
+Assanusiyah College of Education, Oke Yidi
+Awori District College of Education, Ijako-Ota
+Baba Mayaki College of Education, Ogbagbada 
+Bauchi Institute for Arabic and Islamic Studies, Bauchi
+Bayo Tijani College of Education
+College of Education, Oke-Owode Bethel 
+College of Education, IjareBiga 
+College of Education, Arkilla 
+Calvin Foundation College of Education, Naka 
+City College of Education, Maraba Gurku
+College of Education, Ero-Akure 
+College of Education, Foreign Links Campus, Moro, Ife 
+College of Education, Ilemona 
+College of Education, Kura 
+College of Education, LanlateCollege of Education, Moro-Ife 
+Cornerstone College of Education, Odegbami, Ikeja
+Corona College of Education, Lekki 
+Delar College of Education, Egbeda
+Diamond College of Education, Aba
+Ebenezer College of Education, Edda 
+ECWA College of Education, Igbaja
+ECWA College of Education, Jos
+Elder Oyama Memorial College of Education, Ofa 
+Elizabeth Memorial College of Education, Odenigbo, Nsukka
+Emmanuel Ebije Ikwue College of Education, Otukpo
+Festmed College of Education, Ajowa Akoko
+Gboko College of Education, Gboko
+Global College of Education, Dadin Kowa
+Havard Wilson College of Education, AbayiHill 
+College of Education, Gwanji 
+Hope and Anchor College of Education, Suleja
+Institute of Ecumenical Education, Thinker Corner 
+Ipere College of Education, Agyaragu Jibwis 
+College of Arabic and Islamic Education, Gombe 
+Kinsey College of Education, Ilorin 
+Kwararafa College of Education, Otukpo
+Lessel College of Education 
+Michael &amp; Cecilia Foundation College of Education, Agbarha-Otor
+Mufutau’ Lanihun College of Education, Oremeji
+Muhyldeen College of Education, Ilorin 
+Murtadha College of Education, (Institute of Arabic and Islamic Studies), MapoNa 
+Aishat Memorial College of Education, Alagbado 
+ONIT College of Education, Abagana
+Oswald Waller College of Education, Shendam
+Our Saviour Inst. Of Sci. &amp; Tech. College of Education, Enugu
+PAN African College of Education, Offa
+Peace land College of Education, Enugu
+Piaget College of Education, Ibara
+Royal City College of Education, Iyesi
+St. Augustine College of Education (Project Time), Yaba 
+Steady Flow College of Education, Solomon Tangban Campus, Akparabaong
+Sunnah College of Education, Bauchi
+The African Church College of Education, Agege
+The College of Education, Nsukka 
+Topmost College of Education, Ipaja
+Unity College of Education, Aukpa-Adoka 
+Upland College of Education, Ifira/Ipesi, Akoko 
+Yewa Central College of Education, Abeokuta
+Yusuf Bala Usman College of Legal and General Studies Daura 
+AFLON Digital Institute, Jabi, Abuja
+Afrihub ICT Institute, Abuja 
+Ambassador College of Management and Technology, Rumuokwurusi
+Ambassador College of Technology and Paralegal Studies, FESTAC
+Aquatech College of Agriculture and Technology, Ibadan
+Arewa Paralegal Innovation Enterprise, Ungwa Rimi, Kaduna
+Benson Idahosa School of Basic and Applied Studies, Benin City
+Best Global Business and Financial School, Kaduna
+Bonny Vocational centre, Island, River State
+Buckingham Academy of Management and Technology, Ogidi
+Business Education Examination Council, Apapa (BEEC)
+Calvary College of Technology, Lemode-Ijoko
+Calvary Foundation Institute of Technology, Enugu
+Centre for Creative Arts Education, Port Harcourt
+Cherish Enterprise Institute, Batsari 
+Cifman Institute of Technology and Management, Sabo, Yaba
+City Gate Institute of Innovation and Technology, Ibadan
+Clara School of Media and Performing Arts, Etegwe, Yenagoa
+College of Banking and Finance, Ibadan
+Complete Computers and Technology Institute, Benin City
+Comprehensive Institute of Management and Technology, Byazin, Kubwa
+Cornerstone Institute of Management and Technology, Uyo
+Dalewares Institute of Technology, Ikorodu
+Del-York Creative Academy, Ikoyi
+Diabo Paralegal Training Institute, Onikon
+Dialogue Computer Institute, Katsina 
+Dialogue Computer Institute, Ungwa Dosa, Kaduna 
+Digital Bridge Institute, Kano
+Digital Bridge Institute, Oshodi
+DOTS Institute of technology, Abeokuta
+ECWA International College of Technology, Jos
+Emdee Shipping and Maritime College, Apapa
+Enville Institute of Environmental and Safety Management, Ikeja
+ESTAC Institute of Construction Technology, Trans-Ekulu, Enugu
+Federal College of Forestry, Mechanisation, Afaka
+Filaps Media Training Institute, Gyadi
+Firstmark Innovation School of Technology, Ado-Ekiti
+Flyingdove Institute of Information Technology, Kwali
+Foundation College of Technology, Ikot Idem, Ikot Ekpene
+Gateway Industrial and Petro-Gas Institute, Ijebu Ode
+Global Institute of Commerce and Technology, Team 7, Abuja
+Global Maritime Academy, Ogoni-Olomu, Ughelli South
+Glory Land Institute of Management, Ankpa
+Graig-Philip College of Technology, Maryland, Lagos
+Highland College of Technology and Further Education, Ibadan
+Ibom Institute of Management and Technology, Ikot Ekpene
+Ifo College of Management and Technology, Ifo IMFI, ICT Academy, Uyo
+Innovation Institute of Technology, Akure 
+Innovation Institute of Technology, Kaduna
+Institute of Banking and Finance, c/o 
+African Regional Centre for Engineering Design and Management, Ibadan
+Institute of Information and Communication Technology, Awgu
+International Chaplaincy Corps Network Institute of Security Technology and Management, Orlu
+Izisco Obos Institute of Maritime Studies and Technology, Warri
+Justice L. O. Aremu’s Academy for Basic Studies, Ibadan
+Kaduna Business School 
+KarRox -UGRL Computer Education and Training Centre, Ikeja
+Katsina State Insitute of Technology and Management, Katsina 
+Kazaure Innovation Enterprise Institute, Kazaure
+Ladela Educational Institute (Dreamville Ltd), Wuse 2
+Lagos Aviation and Maritime Business Academy, Alimosho,Iyana Ipaja 
+Lagos City Computer College, Lagos 
+Laser Petroleum Geo-Sciences Centre, Port Harcourt
+Lens School of Management and Technology, Offa
+Linnet Paul Innovative Institute, Etegwe
+Literacy College of Management and Technology, Aba
+Living Spring College of Technology and Innovation, Oshogbo
+Lufodo Academy of Performing Arts, Lagos
+Marvel Institute of Management and Technology, Kuchikau 
+Maurid Institute of Management Technology, Mbiaso
+Merchant Seaman Academy, Ikot Adauto
+Metropolitan Institute of Technology, Benin City
+NAOWA Institute of Management and Technology, Asokoro
+National Centre for Women Development, Garki
+National Film Institute, Jos, 
+Niger-Delta Innovation Enterprise Institute, Yenagoa 
+NIIT IDM, Oba AkranNIIT Offa Study Centre, Offa
+Nspire School of Management and Technology, Abuja
+Offer Center Institute of Agriculture, Oluponna
+Olawoyin Awosika School of Innovation Studies, Isheri North
+Onit Institute of Technology, Njikoka
+Oseni Elamah Institute, Auchi
+Pan-African Institute of Paralegal Studies, Gwarimpa
+PEFTI Film Institute, Isolo
+Prime Innovation Institute of Technology, Ajah
+Risk Control Academy, Ajiwe
+Rocana Institute of Technology, Emene
+Royal Arts Academy, Surulere 
+Sagamu Business and Arts Institute, Sagamu
+School of Banking Honours,Ojodu-Berger
+Sentona Institute of Management and Technology, New Iyanya
+Smart Image Film and Theatre Institute, Agbowo
+South Eastern College of Computer Engineering and Information Technology, Owerri 
+Southern Nigeria Institute of Innovative Technology, Ifewara
+St. Augustine Innovation Enterprise Institute, Ogudu
+St. Rita Innovative Institute, Onitsha
+St. Winifred Innovative Institute Olomi Ayegun, Ibadan
+Stars Maritime Academy (Merchant Navy Institute), Ikotun
+Teebabs Innovation Institute, Itele-Ota 
+The Certified Institute of Shipping of Nigeria, Apapa
+The Film and Broadcast Academy Westin Hall, Isoko
+The School of Information and Media Technology, Abakaliki
+Total Human Capital Developent Institute, Lagos 
+Tower Innovation College, Ibadan 
+Trizas Institute for Innovative Education, Trans-Ekulu
+UA College of Science and Technology, Osuofia 
+Umuebe Farm College, Abakaliki 
+UNICEM Commuinty Initiative training Institute, Mfamosing
+United School of Science and Technology, Gamajigo 
+Unival Institute of Technology, Benin City 
+Uptonville Oil and Gas Institute, Port Harcourt
+Yahaya Hamza Institute Technology, Kaduna
+Yefmadec Institute of Science and Technology, Mosogar 
+Yenagoa Enterprise School, Yenagoa 
+Zibeh Institute of Technology, Jos 
+Adeniran Ogunsanya College of Education, Otto/Ijanikin
+Archbishop Vining College of Technology, Akure 
+Assemblies of God Divinity School, Old Umuahia 
+Baptist College of Theology, Obinze, Owerri 
+Bigard Memorial Seminary, Enugu. 
+Calvary College of Theology, Rukpokwu 
+Catholic Institute of West Africa, Port Harcourt 
+Claretain Institute of Philosophy, Nekede 
+College of Arabic and Islamic Legal Studies, Ilorin 
+College of Education, Agbor 
+College of Education, Akwanga 
+College of Education, Azare 
+College of Education, Azare 
+ECWA Theological Seminary, Igbaja 
+Emmanuel Alayande College of Education, Oyo 
+Essien Ukpabia Presbyterian Theological College, Itu 
+Immanuel College of Technology and Christian Education , Samonda 
+Isa Kaita College of Education, Dutsinma 
+Kashim Ibrahim College of Education 
+Life Theological Seminary, Lagos 
+Life Theological Seminary, Lagos
+Methodist Theological Institute, Umuahia 
+Methodist Theological Institute, Umuahia 
+National Missionary Seminary of St-Paul, Gwagwalada 
+Nigeria Baptist Theological Seminary, Ogbomosho 
+Nigerian Christian Bible College, Ukpom
+Nigerian Television Authority (Television College) 
+Pope John Major Seminary, Okpun, Awka 
+Seat of Wisdom Seminary, Owerri 
+Seminary of All Saints, Uhiele 
+Spiritan Int’l School of Technology, Attakwu 
+Spiritan School of Philosophy, Issienu, Nsukka 
+St. Peter and Paul Seminary Bodija, Ibadan 
+St-Joseph Major Seminary , Ikot-Ekpene 
+The Apostolic Church Theological Seminary, Amumara 
+The Samuel Bill Theological College, Abak 
+Trinity Theological College, Umuahia 
+UMCA, Ilorin 
+West Africa Theological Seminary, Ipaja 
+World Harvest Bible College and Seminary, Calabar 
