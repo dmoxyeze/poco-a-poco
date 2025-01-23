@@ -8,7 +8,6 @@ const ARR_3D = [
 // a sample 1D array
 const ARR = [1, 2, 3, 4, 5];
 
-
 // rotate an array clockwise by k
 const rotate = (arr, num) => {
   let newArr = [...arr];
@@ -55,25 +54,27 @@ const rotateRight = (arr, k) => {
 };
 
 // rotate 3d array
-const rotate3d = (arr, num/* number of time to rotate */) => {
-  let newArr = [...arr];//make a copy of the original array
+const rotate3d = (arr, num /* number of time to rotate */) => {
+  let newArr = [...arr]; //make a copy of the original array
 
   let rotatedArr = []; // hold our rotated array
   if (num > 0) {
-    for (let nr = 0; nr < num; nr++) {
-        
+    for (let rotations = 0; rotations < num; rotations++) {
       for (let index = 0; index < newArr.length; index++) {
         let rotated = [];
         for (let i = newArr.length - 1; i >= 0; i--) {
           rotated.push(newArr[i][index]);
           rotatedArr[index] = [...rotated];
         }
-      }   
-        // reassign rotatedArr to newArr in case we have another iteration
-        newArr = [...rotatedArr];
+      }
+      // reassign rotatedArr to newArr in case we have another iteration
+      newArr = [...rotatedArr];
     }
-    return newArr;
-  } else {
-    return newArr;
   }
+  return newArr;
 };
+
+//uncoment to test
+//console.log(rotate3d(ARR_3D, 3));
+//console.log(rotateRight(ARR, 3));
+//console.log(rotateLeft(ARR, 3));
